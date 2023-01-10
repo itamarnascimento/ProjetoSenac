@@ -2,10 +2,14 @@
 
 ## Table of Contents
 
-- [About](#about)
-- [Getting Started](#getting_started)
-- [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [Projeto Senac](#projeto-senac)
+  - [Table of Contents](#table-of-contents)
+  - [About ](#about-)
+  - [Getting Started ](#getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Installing](#installing)
+  - [Technology ](#technology-)
+  - [Usage ](#usage-)
 
 ## About <a name = "about"></a>
 
@@ -33,6 +37,14 @@ APi de cadastro de Livros e usuarios.
 - Rodar o projeto:
     <code>npm run dev</code>
 
+
+
+## Technology <a name = "Technology"></a>
+- NodeJs
+- Express
+- Mongoose
+- dotenv
+- jsonwebtoken
 
 ## Usage <a name = "usage"></a>
 
