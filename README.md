@@ -48,4 +48,4 @@ APi de cadastro de Livros e usuarios.
 
 ## Usage <a name = "usage"></a>
 
-[Documetação](https://documenter.getpostman.com/view/15800203/2s8Z76uUD2)
+[Documetação](https://documenter.getpostman.com/view/15800203/2s8Z76wpex)
